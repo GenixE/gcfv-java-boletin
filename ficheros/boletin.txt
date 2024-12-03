@@ -1,4 +1,4 @@
-asignatura=Programacion
+asignatura=Programación
 fecha=2024-12-03
 
 nombre=Valencia Ferry, Gian Carlo
@@ -6,8 +6,12 @@ nota=8
 nombre=Cuesta Rodriguez, Manuel
 nota=9
 nombre=Alfonso Beaumont, Lucas
-nota=6
+nota=5
 nombre=Mawasli Habbal, Ahmad
 nota=6
 nombre=López, Jaime
+nota=7
+nombre=Olmedo Alba, Juan Jose
+nota=10
+nombre=Aristizábal Uchima, Juan Pablo
 nota=7
